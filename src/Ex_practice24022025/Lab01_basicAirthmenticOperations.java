@@ -1,4 +1,4 @@
-package Ex_practive24022025;
+package Ex_practice24022025;
 
 public class Lab01_basicAirthmenticOperations {
     public static void main(String[] args) {
@@ -11,5 +11,14 @@ public class Lab01_basicAirthmenticOperations {
         int age =65;
          age = 5;
         System.out.println(age);
+
     }
 }
+/*output
+*4
+*0
+*1
+*4
+*0
+*5
+ */
