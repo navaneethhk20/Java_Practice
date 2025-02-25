@@ -2,7 +2,7 @@ package EX_practice25022025;
 
 import java.util.Scanner;
 
-public class Lab03_MaximumOf3Numbers {
+public class Lab04_MaximumOf3Numbers {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the first number");
@@ -12,8 +12,8 @@ public class Lab03_MaximumOf3Numbers {
         System.out.println("Enter the third number");
         int num3 = sc.nextInt();
 
-       // int max= (num1>num2)?(num1>num3)?num1:(num2>num3)?(num2>num1)?num2:num3;
+       int max= (num1>num2)?(num1>num3?num1:num3):(num2>num3?num2:num3);
 
-       // System.out.println(max);
+       System.out.println("Maximum of 3 number is "+max);
     }
 }
