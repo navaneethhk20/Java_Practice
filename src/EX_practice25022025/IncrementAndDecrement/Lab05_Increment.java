@@ -1,4 +1,4 @@
-package EX_practice25022025;
+package EX_practice25022025.IncrementAndDecrement;
 
 public class Lab05_Increment {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package EX_practice25022025;
+package EX_practice25022025.Operator;
 
 import java.util.Scanner;
 

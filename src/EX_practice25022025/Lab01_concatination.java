@@ -6,9 +6,11 @@ public class Lab01_concatination {
         int b=5;
         String name ="Nithu";
         System.out.println(a+b+name);
+        //System.out.println(name+(a+b));
         System.out.println(name+a+b);
        //output:
         //10Nithu
+        //Nithu10
         //Nithu55
 
     }
