@@ -1,4 +1,4 @@
-package EX_20250323;
+package EX_20250323.Part1;
 
 import java.util.Scanner;
 
