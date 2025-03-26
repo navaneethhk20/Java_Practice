@@ -23,6 +23,5 @@ public class Lab01 {
             System.out.println("not a palindrome");
         }
         sc.close();
-
     }
 }
