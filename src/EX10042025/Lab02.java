@@ -8,5 +8,6 @@ public class Lab02 {
         System.out.println(a+b+name);
         System.out.println(name+(a+b));
         System.out.println(a+name+b);
+
     }
 }
